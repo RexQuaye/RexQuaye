@@ -9,8 +9,6 @@
 
 - 🐧 Gained real-world hands-on Linux Systems Administration experience by working through assigned trouble tickets spanning virtualization, automation, identity management, and monitoring
   
-- 📂 All of my projects are available at [github.com/RexQuaye](https://github.com/RexQuaye?tab=repositories)
-
 - 🌱 Currently working toward the Linux Red Hat Certified Engineer (RHCE) EX294 certification through Ansible automation coursework
 
 - 🚀 Expanding into DevOps, turning manual fixes into automated, repeatable solutions through infrastructure as code
