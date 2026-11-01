@@ -1,3 +1,4 @@
+
 <a name="top"></a>
 <h3 align="center">Linux Systems Administrator | RHCSA Certified</h3>
 
@@ -27,24 +28,24 @@ Hands-on trouble tickets I completed in a lab environment through the ProCore Pl
 
 **⚙️ Automation**
 
-- [Ansible Patch Automation](https://github.com/RexQuaye/ansible-patch-automation) — automated patching with Ansible
+- [Ansible Patch Automation](https://github.com/RexQuaye/Ansible-Patch-Automation) — automated patching with Ansible
 - *More Ansible projects coming as my coursework progresses*
 
 **🖥️ Infrastructure & Virtualization**
 
-- [VMware vSphere VM Provisioning](https://github.com/RexQuaye/vmware-vm-provisioning)
-- [Kickstart Automated OS Installation](https://github.com/RexQuaye/kickstart-automated-install)
-- [LAMP Stack CRM Deployment](https://github.com/RexQuaye/lamp-stack-deployment) — Apache, PHP, MariaDB and phpMyAdmin
+- [VMware vSphere VM Provisioning](https://github.com/RexQuaye/VMware-VM-Provisioning)
+- [Kickstart Automated OS Installation](https://github.com/RexQuaye/Kickstart-Automated-OS-Installation)
+- [LAMP Stack CRM Deployment](https://github.com/RexQuaye/LAMP-Stack-CRM-Deployment) — Apache, PHP, MariaDB and phpMyAdmin
 
 **🔐 Identity & Access**
 
-- [FreeIPA Identity & Access Management](https://github.com/RexQuaye/freeipa-identity-management)
-- [Active Directory Management](https://github.com/RexQuaye/active-directory-management)
+- [FreeIPA Identity & Access Management](https://github.com/RexQuaye/Freeipa-Identity-Management)
+- [Active Directory Management](https://github.com/RexQuaye/Active-Directory-Management)
 
 **📈 Monitoring & Backup**
 
-- [Nagios & CheckMK Infrastructure Monitoring](https://github.com/RexQuaye/nagios-checkmk-monitoring)
-- [Veeam Backup Configuration](https://github.com/RexQuaye/veeam-backup-configuration) — NFS-backed Veeam agent backups
+- [Nagios & CheckMK Infrastructure Monitoring](https://github.com/RexQuaye/Nagios-CheckMK-Infrastructure-Monitoring)
+- [Veeam Backup Configuration](https://github.com/RexQuaye/Veeam-Backup-Configuration) — NFS-backed Veeam agent backups
 
 <br />
 
