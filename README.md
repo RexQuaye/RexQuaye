@@ -22,9 +22,9 @@
 
 ---
 
-### 🛠️ Apprenticeship Projects (Trouble Tickets)
+### 🛠️ Hands-On Linux Projects
 
-Hands-on trouble tickets I completed in a lab environment through the ProCore Plus apprenticeship, each documented with screenshots and a written solution.
+Trouble tickets I completed in a lab environment through the Pro-Core Plus apprenticeship, each documented with screenshots and a written solution.
 
 **⚙️ Automation**
 
