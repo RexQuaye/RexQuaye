@@ -2,7 +2,7 @@
 <a name="top"></a>
 <h3 align="center">Linux Systems Administrator | RHCSA Certified</h3>
 
-- 🐧 Gained hands-on Linux systems administration experience in a lab environment through the Pro-Core Plus apprenticeship, working through assigned trouble tickets spanning virtualization, automation, identity management, monitoring and backup
+- 🐧 Gained hands-on Linux systems administration experience in a lab environment through the Pro-Core Plus Apprenticeship, working through assigned trouble tickets spanning virtualization, automation, identity management, monitoring and backup
 - 🌱 Currently working toward Red Hat Certified Engineer (RHCE, EX294) through Ansible automation coursework
 - 🚀 Expanding into DevOps, turning manual fixes into automated, repeatable solutions through infrastructure as code
 - ⚓ Disciplined, process-driven experience as a United States Navy Submarine Logistics Specialist
@@ -24,7 +24,7 @@
 
 ### 🛠️ Hands-On Linux and Ansible Projects
 
-Trouble tickets I completed in a lab environment through the Pro-Core Plus apprenticeship, each documented with screenshots and a written solution.
+Trouble tickets I completed in a lab environment through the Pro-Core Plus Apprenticeship, each documented with screenshots and a written solution.
 
 **⚙️ Automation**
 
