@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Hands-On Linux Projects
+### 🛠️ Hands-On Linux and Ansible Projects
 
 Trouble tickets I completed in a lab environment through the Pro-Core Plus apprenticeship, each documented with screenshots and a written solution.
 
