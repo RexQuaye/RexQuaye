@@ -24,29 +24,32 @@
 
 ### 🛠️ Hands-On Linux and Ansible Projects
 
-Trouble tickets I completed in a lab environment through the Pro-Core Plus apprenticeship, each documented with screenshots and a written solution.
+Trouble tickets I completed in a lab environment through the ProCore Plus apprenticeship, each documented with screenshots and a written solution.
 
 **⚙️ Automation**
 
-- [Ansible Patch Automation](https://github.com/RexQuaye/Ansible-Patch-Automation) — automated patching with Ansible
+- [Ansible Patch Automation](https://github.com/RexQuaye/Ansible-Patch-Automation) — Built an Ansible inventory, patched servers, and used playbooks to create shared directories and close ports
 - *More Ansible projects coming as my coursework progresses*
 
 **🖥️ Infrastructure & Virtualization**
 
-- [VMware vSphere VM Provisioning](https://github.com/RexQuaye/VMware-VM-Provisioning)
-- [Kickstart Automated OS Installation](https://github.com/RexQuaye/Kickstart-Automated-OS-Installation)
-- [LAMP Stack CRM Deployment](https://github.com/RexQuaye/LAMP-Stack-CRM-Deployment) — Apache, PHP, MariaDB and phpMyAdmin
+- [VMware vSphere VM Provisioning](https://github.com/RexQuaye/VMware-VM-Provisioning) — Provisioned and managed virtual machines, including clusters, resource pools and VM migration
+- [Kickstart Automated OS Installation](https://github.com/RexQuaye/Kickstart-Automated-OS-Installation) — Automated operating system installs with Kickstart
+- [LAMP Stack CRM Deployment](https://github.com/RexQuaye/LAMP-Stack-CRM-Deployment) — Deployed a PHP and MariaDB CRM application on Apache with phpMyAdmin
 
 **🔐 Identity & Access**
 
-- [FreeIPA Identity & Access Management](https://github.com/RexQuaye/Freeipa-Identity-Management)
-- [Active Directory Management](https://github.com/RexQuaye/Active-Directory-Management)
+- [FreeIPA Identity & Access Management](https://github.com/RexQuaye/Freeipa-Identity-Management) — Enrolled Linux clients in FreeIPA and managed user access
+- [Active Directory Management](https://github.com/RexQuaye/Active-Directory-Management) — Created organizational units, users and groups in Active Directory
 
 **📈 Monitoring & Backup**
 
-- [Nagios & CheckMK Infrastructure Monitoring](https://github.com/RexQuaye/Nagios-CheckMK-Infrastructure-Monitoring)
-- [Veeam Backup Configuration](https://github.com/RexQuaye/Veeam-Backup-Configuration) — NFS-backed Veeam agent backups
+- [Nagios & CheckMK Infrastructure Monitoring](https://github.com/RexQuaye/Nagios-CheckMK-Infrastructure-Monitoring) — Added servers to CheckMK monitoring and resolved NTP time alerts
+- [Veeam Backup Configuration](https://github.com/RexQuaye/Veeam-Backup-Configuration) — Configured Veeam agent backups to an NFS repository
+
 
 <br />
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
+
+
