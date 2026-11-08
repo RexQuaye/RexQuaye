@@ -15,6 +15,7 @@
 
 **Linux:** RHEL / CentOS Stream 9 · Bash · systemd · firewalld · NFS<br />
 **Automation:** Ansible (in progress) · Kickstart<br />
+**Containers:** Podman<br />
 **Identity:** FreeIPA · Active Directory<br />
 **Virtualization:** VMware vSphere<br />
 **Monitoring & Backup:** CheckMK · Nagios · Veeam<br />
