@@ -33,6 +33,7 @@ Trouble tickets I completed in a lab environment through the Pro-Core Plus Appre
 
 **🖥️ Infrastructure & Virtualization**
 
+- [Podman Container Management](https://github.com/RexQuaye/Podman-Container-Management) — Ran an httpd container with Podman as a rootless systemd service with persistent volume mounts
 - [VMware vSphere VM Provisioning](https://github.com/RexQuaye/VMware-VM-Provisioning) — Provisioned and managed virtual machines, including clusters, resource pools and VM migration
 - [Kickstart Automated OS Installation](https://github.com/RexQuaye/Kickstart-Automated-OS-Installation) — Automated operating system installs with Kickstart
 - [LAMP Stack CRM Deployment](https://github.com/RexQuaye/LAMP-Stack-CRM-Deployment) — Deployed a PHP and MariaDB CRM application on Apache with phpMyAdmin
